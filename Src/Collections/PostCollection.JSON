@@ -1,0 +1,122 @@
+[
+  {
+    "NickName": "BZRP",
+    "FullName": "Brian Zambell Rodriguez Pina",
+    "PhotoURL": "https://www.example.com/bzrp.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Hi, My name is BZRP",
+      "CreateAt": "2023-02-20T10:30:40",
+      "IsDisable": false,
+      "ImageURL": "https://www.instagram.com/p/Cx6b11aLbAo/?hl=es"
+    }
+  },
+  {
+    "NickName": "Antonio",
+    "FullName": "Antonio Miguel Hernandez",
+    "PhotoURL": "https://www.example.com/antonio.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Disfrutando del día",
+      "CreateAt": "2023-02-21T12:15:30",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/antonio-post2.jpg"
+    }
+  },
+  {
+    "NickName": "Messi",
+    "FullName": "Lionel Andrés Messi",
+    "PhotoURL": "https://www.example.com/messi.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Hi, I'm Leo Messi",
+      "CreateAt": "2023-02-20T10:30:40",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/messi-post1.jpg"
+    }
+  },
+  {
+    "NickName": "Cr7",
+    "FullName": "Cristiano Ronaldo",
+    "PhotoURL": "https://www.example.com/cr7.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Hello, I'm CR7",
+      "CreateAt": "2023-02-20T10:30:40",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/cr7-post1.jpg"
+    }
+  },
+  {
+    "NickName": "Dalto",
+    "FullName": "Dalto Anaya",
+    "PhotoURL": "https://www.example.com/dalto.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Hey, I'm Dalto!",
+      "CreateAt": "2023-02-20T10:30:40",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/dalto-post1.jpg"
+    }
+  },
+  {
+    "NickName": "Elon",
+    "FullName": "Elon Musk",
+    "PhotoURL": "https://www.example.com/elon.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Working on the future of transportation",
+      "CreateAt": "2023-02-21T09:45:20",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/elon-post2.jpg"
+    }
+  },
+  {
+    "NickName": "CocaCola",
+    "FullName": "Coca Cola Company",
+    "PhotoURL": "https://www.example.com/cocacola.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Celebrating 100 years of happiness!",
+      "CreateAt": "2023-02-21T11:20:15",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/cocacola-post2.jpg"
+    }
+  },
+  {
+    "NickName": "Pepsi",
+    "FullName": "PepsiCo",
+    "PhotoURL": "https://www.example.com/pepsi.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Sipping on some Pepsi goodness",
+      "CreateAt": "2023-02-20T10:30:40",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/pepsi-post1.jpg"
+    }
+  },
+  {
+    "NickName": "SpaceX",
+    "FullName": "Space Exploration Technologies Corp.",
+    "PhotoURL": "https://www.example.com/spacex.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Exploring the cosmos with SpaceX",
+      "CreateAt": "2023-02-20T10:30:40",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/spacex-post1.jpg"
+    }
+  },
+  {
+    "NickName": "TechGiant",
+    "FullName": "Tech Giant Innovations",
+    "PhotoURL": "https://www.example.com/techgiant.jpg",
+    "lastLogin": "2023-02-20T10:30:40",
+    "Post": {
+      "Content": "Innovating for a better tomorrow",
+      "CreateAt": "2023-02-20T10:30:40",
+      "IsDisable": false,
+      "ImageURL": "https://www.example.com/techgiant-post1.jpg"
+    }
+  }
+]
